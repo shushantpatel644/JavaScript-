@@ -1,0 +1,23 @@
+Basics.... 👇
+Variables
+Loops (for while etc)
+Array 
+Objects
+conditional ( if else etc)
+functions
+arrow function
+DOM manipulation
+
+Advance .....👇
+
+Hoisting
+Scoping
+this keword
+closure
+method Map like reduce , filter etc
+call back function
+promises
+Async  Awaiy Js (Must)
+
+Plus my recommendation
+ES6

@@ -59,10 +59,10 @@
 // console.log(ans);
 
 
-var a  = 30;
-{
-    var b  = 2;
-    console.log(b);
-}
-console.log(a);
-console.log(b);
+// var a  = 30;
+// {
+//     var b  = 2;
+//     console.log(b);
+// }
+// console.log(a);
+// console.log(b);

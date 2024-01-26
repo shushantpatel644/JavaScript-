@@ -28,3 +28,12 @@ console.log(fullName());
 // catch
  
 
+// getter -> excess the properties 
+
+// shetter -> chnage and update the property (or mutate properties)
+
+
+// try 
+// catch
+ 
+

@@ -8,12 +8,12 @@
 
 
 
-// let arr = [1, 2, 3];
-// // arr.push(9);
-// // arr.pop();
-// arr.shift(); //remove element from first
-// arr.unshift(); //add the element from the frist index of the array
-// console.log(arr);
+let arr = [1, 2, 3];
+arr.push(9);
+arr.pop();
+arr.shift(); //remove element from first
+arr.unshift(); //add the element from the frist index of the array
+console.log(arr);
 
 // let arr = [1, 2, 3, 4, 5, 5, 6, 7, 8, 9];
 // arr.splice(4, 3);
